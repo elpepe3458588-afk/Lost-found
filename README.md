@@ -7,9 +7,9 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 Requirements:
 
--	[Learn how the damn Angel Script works](https://scp-cb-community-preservation-project.github.io/Documentation/)
+-	[Learn how the damn Angel Script works in SCP-CB](https://scp-cb-community-preservation-project.github.io/Documentation/)
 -	[CBRE-EX](https://github.com/SCP-CB-Community-Preservation-Project/cbre-ex)
 -	Thats all (i think)
 
-> [!IMPORTANT]
-> Beware - the source code IS more horrifying than the game itself!
+> [!BEWARE]
+> The source code IS more horrifying than the game itself!
