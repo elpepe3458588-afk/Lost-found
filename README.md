@@ -1,6 +1,6 @@
 # Lost N' Found
 
-A mod for SCP CB 1.3.12 that restores all content removed from the game.
+A mod for SCP CB 1.3.12 that restores most content removed from the game.
 
 Requirements:
 
