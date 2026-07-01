@@ -65106,12 +65106,11 @@ world
         }
         editor
         {
-            "color" "211 179 0"
+            "color" "0 150 188"
             "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "groupid" "1004"
-            "parentid" "1004"
+            "parentid" "1"
         }
     }
     solid
@@ -65221,12 +65220,11 @@ world
         }
         editor
         {
-            "color" "211 179 0"
+            "color" "0 178 159"
             "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "groupid" "1007"
-            "parentid" "1007"
+            "parentid" "1"
         }
     }
     solid
@@ -65336,12 +65334,11 @@ world
         }
         editor
         {
-            "color" "211 179 0"
+            "color" "0 173 199"
             "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "groupid" "1010"
-            "parentid" "1010"
+            "parentid" "1"
         }
     }
     solid
@@ -65451,12 +65448,11 @@ world
         }
         editor
         {
-            "color" "211 179 0"
+            "color" "0 238 186"
             "visgroupid" "1"
             "visgroupshown" "1"
             "visgroupautoshown" "1"
-            "groupid" "1013"
-            "parentid" "1013"
+            "parentid" "1"
         }
     }
     solid
@@ -66416,50 +66412,6 @@ world
             "parentid" "1"
         }
     }
-    group
-    {
-        "id" "1004"
-        editor
-        {
-            "color" "220 188 0"
-            "visgroupshown" "1"
-            "visgroupautoshown" "1"
-            "parentid" "1"
-        }
-    }
-    group
-    {
-        "id" "1007"
-        editor
-        {
-            "color" "220 188 0"
-            "visgroupshown" "1"
-            "visgroupautoshown" "1"
-            "parentid" "1"
-        }
-    }
-    group
-    {
-        "id" "1010"
-        editor
-        {
-            "color" "220 188 0"
-            "visgroupshown" "1"
-            "visgroupautoshown" "1"
-            "parentid" "1"
-        }
-    }
-    group
-    {
-        "id" "1013"
-        editor
-        {
-            "color" "220 188 0"
-            "visgroupshown" "1"
-            "visgroupautoshown" "1"
-            "parentid" "1"
-        }
-    }
 }
 entity
 {
@@ -66477,9 +66429,9 @@ entity
     "button1angle" "0 0 0"
     "button2pos" "0 0 0"
     "button2angle" "0 0 0"
-    "position" "773.27703 0 240.14012"
+    "position" "768 0 240"
     "spawnflags" "0"
-    "origin" "773.27703000 240.14012000 0.00000000"
+    "origin" "768.00000000 240.00000000 0.00000000"
     editor
     {
         "color" "255 0 255"
@@ -67539,11 +67491,11 @@ entity
     "id" "817"
     "classname" "model"
     "file" "elecbox"
-    "position" "-177.2608 161 -951.33638"
+    "position" "419 144 -951.33638"
     "angles" "359.99999 0 360"
     "scale" "10 10 10"
     "spawnflags" "0"
-    "origin" "-177.26080000 -951.33638000 161.00000000"
+    "origin" "419.00000000 -951.33638000 144.00000000"
     editor
     {
         "color" "0 181 151"
@@ -68120,17 +68072,16 @@ entity
     "id" "1001"
     "classname" "soundemitter"
     "sound" "6"
-    "range" "1"
+    "range" "5"
     "position" "-177 418.00004 487.99999"
     "spawnflags" "0"
     "origin" "-177.00000000 487.99999000 418.00004000"
     editor
     {
-        "color" "229 197 9"
+        "color" "0 164 141"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
-        "groupid" "1004"
-        "parentid" "1004"
+        "parentid" "1"
     }
 }
 entity
@@ -68138,7 +68089,7 @@ entity
     "id" "1002"
     "classname" "soundemitter"
     "sound" "5"
-    "range" "1"
+    "range" "5"
     "position" "-857 316.00004 -802.00011"
     "spawnflags" "0"
     "origin" "-857.00000000 -802.00011000 316.00004000"
@@ -68155,17 +68106,16 @@ entity
     "id" "1006"
     "classname" "soundemitter"
     "sound" "6"
-    "range" "1"
+    "range" "5"
     "position" "-204 418.00004 -654.00001"
     "spawnflags" "0"
     "origin" "-204.00000000 -654.00001000 418.00004000"
     editor
     {
-        "color" "229 197 9"
+        "color" "0 173 232"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
-        "groupid" "1007"
-        "parentid" "1007"
+        "parentid" "1"
     }
 }
 entity
@@ -68173,17 +68123,16 @@ entity
     "id" "1009"
     "classname" "soundemitter"
     "sound" "6"
-    "range" "1"
+    "range" "5"
     "position" "822 418.00004 390.99999"
     "spawnflags" "0"
     "origin" "822.00000000 390.99999000 418.00004000"
     editor
     {
-        "color" "229 197 9"
+        "color" "0 154 153"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
-        "groupid" "1010"
-        "parentid" "1010"
+        "parentid" "1"
     }
 }
 entity
@@ -68191,17 +68140,16 @@ entity
     "id" "1012"
     "classname" "soundemitter"
     "sound" "6"
-    "range" "1"
+    "range" "5"
     "position" "-174 418.00004 1316.99999"
     "spawnflags" "0"
     "origin" "-174.00000000 1316.99999000 418.00004000"
     editor
     {
-        "color" "229 197 9"
+        "color" "0 244 204"
         "visgroupshown" "1"
         "visgroupautoshown" "1"
-        "groupid" "1013"
-        "parentid" "1013"
+        "parentid" "1"
     }
 }
 entity
@@ -68231,7 +68179,7 @@ entity
     "id" "1016"
     "classname" "soundemitter"
     "sound" "5"
-    "range" "1"
+    "range" "5"
     "position" "-702 316.00004 78.99999"
     "spawnflags" "0"
     "origin" "-702.00000000 78.99999000 316.00004000"
@@ -68265,8 +68213,8 @@ cameras
     "activecamera" "0"
     camera
     {
-        "position" "[-1004.25000000 -26.04443000 275.93810000]"
-        "look" "[-1099.73900000 -24.64241000 266.15010000]"
+        "position" "[856.55720000 314.60750000 416.30280000]"
+        "look" "[815.07790000 401.16090000 414.33110000]"
     }
 }
 cordon
