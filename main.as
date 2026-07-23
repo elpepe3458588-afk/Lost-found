@@ -100,3 +100,23 @@ void Hook_Update() {
         }
     }
 }
+//UNFINISHED 689 PROTOYPE
+using namespace CB;
+using namespace B3D;
+Mesh scp689; 
+void Hook_Initialize() {
+    scp689 = CB::LoadMesh("GFX/npcs/statue.b3d", null);
+
+}
+void Hook_Update() {
+    scp689.Position(Player::Collider.GetX(), Player::Collider.GetY() + 1.5, Player::Collider.GetZ());
+    
+} 
+//we are scripters of the cb the most moral modders
+void Hook_Initialize() {
+  scp689 = ...
+  scp689.Scale(0.5, 0.5, 0.5);
+}
+
+//Now heres the AI
+Player::Camera.InView()
